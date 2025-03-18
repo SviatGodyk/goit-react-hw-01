@@ -1,0 +1,20 @@
+.transactionHistory {
+  border: 1px solid #0a0a0a;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.transactionHistory table {
+  width: 100%;
+}
+
+.transactionHistory table thead tr th {
+  background-color: #0a0a0a;
+  color: rgb(255, 255, 255);
+}
+
+.transactionHistory tbody tr td {
+  margin: 0;
+  padding: 5px 10px;
+  border-bottom: 1px solid #000;
+}
